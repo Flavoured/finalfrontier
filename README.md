@@ -8,7 +8,7 @@ A Garry's Mod gamemode by Metapyziks
 1. Download and install [git](http://git-scm.com/).
 1. Run the following commands
 2.     cd <path to your gamemodes folder>
-        git clone https://github.com/finalfrontier/finalfrontier.git
+        git clone https://github.com/benloz10/finalfrontier.git
         cd finalfrontier
         git submodule init
         git submodule update
